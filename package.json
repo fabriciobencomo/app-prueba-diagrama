@@ -17,6 +17,7 @@
   "dependencies": {
     "@dagrejs/dagre": "^1.1.5",
     "@quasar/extras": "^1.16.4",
+    "gatsby-plugin-google-gtag": "^5.14.0",
     "quasar": "^2.16.0",
     "vue": "^3.4.18",
     "vue-router": "^4.0.12"
